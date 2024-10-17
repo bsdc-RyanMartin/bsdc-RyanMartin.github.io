@@ -1,0 +1,11 @@
+h1 {
+    color: red;  
+
+}
+body {height: 100;
+background-image: url("/Images/download.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 100vh;
+}
